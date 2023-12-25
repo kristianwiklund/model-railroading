@@ -9,3 +9,5 @@ Needed:
 * 1 third largest window
 * 6 smallest window
 
+The result is shown in the curing_video.mp4 in this directory.
+The windows are way too thick (~15 cm to scale), but it will hopefully not be too visible.
