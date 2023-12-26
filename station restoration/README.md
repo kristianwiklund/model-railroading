@@ -19,6 +19,7 @@ To be able to fix the station, I pulled it apart. Thanks to the cheap glue most 
 
 I started by covering the walls with white primer (Ammo-Mig OneShot, IIRC), then applied a coat of yellow Vallejo 70976 buff (which needed serious thinning to be airbrushed).
 Then I masked the upper part (the vertical planks) and coated the horizontal planks with Ammo-mig A.MIG-0065 "forest green" aiming at a similar paint scheme as the [Grand Trunk Railway's Petersburg station](https://www.cweek.ca/photo/show/189).
+Finally, the inside of the wall parts were coated black in an attempt to remove as much light leakage as possible. 
 
 ![parts with primer](media/white.png)
 ![parts painted yellow](media/yellow.jpg)
@@ -27,6 +28,8 @@ Then I masked the upper part (the vertical planks) and coated the horizontal pla
 The green is not 100% covering the yellow. This looks worse close up than in real life, in real life it contributes to the slightly worn down look I'm after - the model is a bit beaten up and will never look perfect, so I need to run with what I have. 
 
 # 3D-models for the doors and windows
+
+## Printing the models.
 
 Print using an SLA printer.
 
@@ -40,7 +43,15 @@ Needed:
 * 6 [smallest window](smallest_windows.stl)
 
 Printed result: [video](media/curing_video.mp4)
-The windows are way too thick (~15 cm to scale), but it will hopefully not be too visible.
+
+The windows are way too thick (~15 cm to scale), but it will hopefully not be too visible. I'm still calibrating to new resin, it is likely possible to reduce the thickness at least to 0.5 mm.
+
+## Painting and cleaning the doors and windows
+
+After curing the models, I covered them with white primer. The support rafts were quite handy when painting.
+
+
+
 
 
 
