@@ -5,7 +5,7 @@ Print using an SLA printer.
 Needed:
 
 * 1 [large door](large_door.stl)
-* 2 small door
+* 2 [small door]("small door.stl")
 * 2 large window
 * 2 second largest window
 * 1 third largest window
