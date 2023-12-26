@@ -4,7 +4,7 @@ Print using an SLA printer.
 
 Needed:
 
-* 1 [large door](./large door.stl)
+* 1 [large door](http://www.google.com)
 * 2 small door
 * 2 large window
 * 2 second largest window
