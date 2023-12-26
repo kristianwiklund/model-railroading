@@ -24,6 +24,7 @@ Then I masked the upper part (the vertical planks) and coated the horizontal pla
 ![parts painted yellow](media/yellow.jpg)
 ![parts painted green](media/green.jpg)
 
+The green is not 100% covering the yellow. This looks worse close up than in real life, in real life it contributes to the slightly worn down look I'm after - the model is a bit beaten up and will never look perfect, so I need to run with what I have. 
 
 # 3D-models for the doors and windows
 
