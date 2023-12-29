@@ -51,7 +51,7 @@ The windows are way too thick (~15 cm to scale), but it will hopefully not be to
 
 After curing the models, I covered them with white primer. The support rafts were quite handy when painting.
 
-![station walls with fitted windows}(media/placed1.jpg)
+![station walls with fitted windows](media/placed1.jpg)
 
 
 
