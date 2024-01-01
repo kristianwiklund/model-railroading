@@ -39,7 +39,7 @@ Needed:
 * 2 [small door](small_door.stl)
 * 2 [large window](large_windows.stl)
 * 2 [second largest window](second_largest_window.stl)
-* 1 [third largest window](third_largest_window.stl
+* 1 [third largest window](third_largest_window.stl)
 * 6 [smallest window](smallest_windows.stl)
 * 1 [second smallest window](second_smallest_windows.stl) - this is a resize of the smallest window
 
