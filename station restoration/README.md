@@ -39,11 +39,13 @@ Needed:
 * 2 [small door](small_door.stl)
 * 2 [large window](large_windows.stl)
 * 2 [second largest window](second_largest_window.stl)
-* 1 [third largest window](third_largest_window.stl) - not tested!
-* 6 [smallest window](smallest_windows.stl) - this part need resizing!
-* 1 second smallest window - this is a part I missed when measuring.
+* 1 [third largest window](third_largest_window.stl
+* 6 [smallest window](smallest_windows.stl)
+* 1 [second smallest window](second_smallest_windows.stl) - this is a resize of the smallest window
 
 Printed result: [video](media/curing_video.mp4)
+
+![printed parts picture](media/printed.jpg)
 
 The windows are way too thick (~15 cm to scale), but it will hopefully not be too visible. I'm still calibrating to new resin, it is likely possible to reduce the thickness at least to 0.5 mm.
 
