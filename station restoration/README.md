@@ -27,6 +27,14 @@ Finally, the inside of the wall parts were coated black in an attempt to remove 
 
 The green is not 100% covering the yellow. This looks worse close up than in real life, in real life it contributes to the slightly worn down look I'm after - the model is a bit beaten up and will never look perfect, so I need to run with what I have. 
 
+# 3D-model for the platform roof
+
+The platform roof is a remix of [Chibbyreen's design on Thingiverse](https://www.thingiverse.com/thing:5039844).
+```
+Shingle Roofs
+by ChibbyReen is licensed under the Creative Commons - Attribution - Share Alike license.
+```
+
 # 3D-models for the doors and windows
 
 ## Printing the models.
