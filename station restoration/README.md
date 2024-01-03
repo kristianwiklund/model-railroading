@@ -27,13 +27,6 @@ Finally, the inside of the wall parts were coated black in an attempt to remove 
 
 The green is not 100% covering the yellow. This looks worse close up than in real life, in real life it contributes to the slightly worn down look I'm after - the model is a bit beaten up and will never look perfect, so I need to run with what I have. 
 
-# 3D-model for the platform roof
-
-The platform roof is a remix of [Chibbyreen's design on Thingiverse](https://www.thingiverse.com/thing:5039844).
-```
-Shingle Roofs
-by ChibbyReen is licensed under the Creative Commons - Attribution - Share Alike license.
-```
 
 # 3D-models for the doors and windows
 
@@ -60,8 +53,40 @@ The windows are way too thick (~15 cm to scale), but it will hopefully not be to
 ## Painting and cleaning the doors and windows
 
 After curing the models, I covered them with white primer. The support rafts were quite handy when painting.
+The finishing paint is Ammo-MIG "forest green". 
 
 ![station walls with fitted windows](media/placed1.jpg)
+
+# Other Parts
+## Platform Roof
+
+
+The platform roof is a remix of [Chibbyreen's design on Thingiverse](https://www.thingiverse.com/thing:5039844).
+```
+Shingle Roofs
+by ChibbyReen is licensed under the Creative Commons - Attribution - Share Alike license.
+```
+
+## Bench
+
+The bench is unchanged except for the scale from [ NMBS bench (bank) H0 1:87 ](https://www.printables.com/model/702527-nmbs-bench-bank-h0-187) by Perk @ Printables.com, I keep the chitubox files that worked in case I need to print it again.
+
+```
+NMBS Bench by Perk @ printables.com
+
+This work is licensed under a
+Creative Commons (4.0 International License)
+Attribution—Noncommercial—Share Alike
+```
+
+## Floor planks
+
+An [SVG file with 2 mm wide boxes](floorboards.svg) suitable for making floor planks on a Cricut or similar machine. They are obviously too wide, this was a test run. I'm quite pleased with the result.
+The variations in color is caused by using varying amounts of paint, a thicker paint is needed to avoid disturbing the surface of the cereal box cardboard too much. 
+
+![cereal box floor planks](media/planks.jpg)
+
+
 
 
 
