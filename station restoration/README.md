@@ -32,7 +32,7 @@ The green is not 100% covering the yellow. This looks worse close up than in rea
 
 ## Printing the models.
 
-Print using an SLA printer.
+Print the doors and windows on an SLA printer.
 
 Needed:
 
@@ -85,6 +85,13 @@ An [SVG file with 2 mm wide boxes](floorboards.svg) suitable for making floor pl
 The variations in color is caused by using varying amounts of paint, a thicker paint is needed to avoid disturbing the surface of the cereal box cardboard too much. 
 
 ![cereal box floor planks](media/planks.jpg)
+
+I like the look of the planks, but will not use them for the station. May move to another repo later.
+
+## Gable end for the station roof
+
+Since both the platform roof and its gable end were gone, I created a [simple gable end](end_planks.stl) that is printable either on a decent FDM printer or an SLA printer.
+Print 1-2 as needed.
 
 
 
