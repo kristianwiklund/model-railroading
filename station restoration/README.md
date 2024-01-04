@@ -67,18 +67,6 @@ Shingle Roofs
 by ChibbyReen is licensed under the Creative Commons - Attribution - Share Alike license.
 ```
 
-## Bench
-
-The bench is unchanged except for the scale from [ NMBS bench (bank) H0 1:87 ](https://www.printables.com/model/702527-nmbs-bench-bank-h0-187) by Perk @ Printables.com, I keep the chitubox files that worked in case I need to print it again.
-
-```
-NMBS Bench by Perk @ printables.com
-
-This work is licensed under a
-Creative Commons (4.0 International License)
-Attribution—Noncommercial—Share Alike
-```
-
 ## Floor planks
 
 An [SVG file with 2 mm wide boxes](floorboards.svg) suitable for making floor planks on a Cricut or similar machine. They are obviously too wide, this was a test run. I'm quite pleased with the result.
