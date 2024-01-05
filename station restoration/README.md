@@ -17,6 +17,17 @@ Pola _were_ able to make proper models - for example, [this kit also sold by Hou
 
 ![other kit](media/betterscale.png)
 
+Let's put an N-scale bench on the station and also on a couple of other old kits I have:
+
+![stationbench](media/bench.png)
+
+The gingerbread is about the height of a grown person.
+
+![factorybench](media/factorybench.png)
+
+![housebench](media/housebench.png)
+
+ 
 
 
 
