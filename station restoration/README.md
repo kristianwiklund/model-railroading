@@ -42,7 +42,7 @@ The small door is 22 mm tall.
 | H0 (1:87) | 1.9 meters |
 | TT (1:120) | 2.6 meters |
 
-Neither of these makes sense. TT is probably the closest, but it is still a bit too big for TT. H0 will likely look ridicuously small, in particular since the station roof looks decent with N-scale wagons.
+which considering door size only, makes the model a ballpark H0 model. 
 
 Let's look at it the other way around - if we know what the door height is, which scale is the model?
 
@@ -50,8 +50,8 @@ A standard US door is (according to internet, 80 inches, or 200 cm. Let's also l
 
 ![measurement on the Grand Trunk Petersburg station](media/doormeasurement.png)
 
- 
-
+Hence, based on the door alone, the scale of the Pola-N station can be determined to be **approximately 1:91**, or pretty much okay for H0.
+I'm not convinced that the rest of the station fits H0 though...
 
 
 # Restoration Progress
