@@ -7,9 +7,9 @@ Then, without anything to compare to and obviously no deeper thought when I cadd
 
 The same model seems to be [sold under a few different brand names](http://milesofgold000nscale.blogspot.com/2014/06/cont.html), searching for combinations of the names + "scale" found [a post on the trains.com message board asking about the scale](https://cs.trains.com/mrr/f/88/t/64804.aspx?sortorder=desc):
 
-*I think it may be HO scale though the box says otherwise.... Compared to my Walthers stuff, one floor of the passenger station is one and a half of the state street stores, etc* - NinjaRob@Trains.com
+*I think it may be HO scale though the box says otherwise.... Compared to my Walthers stuff, one floor of the passenger station is one and a half of the state street stores, etc* - NinjaRob @ Trains.com
 
-Also, on [the nscale.net forums](https://www.nscale.net/forums/showthread.php?16831-Scale-Issues&highlight=malden) we read that _"I checked my station with a ruler and conversion table. The whole building is too big by almost 40%."_ -- musicman@nscale.net
+Also, on [the nscale.net forums](https://www.nscale.net/forums/showthread.php?16831-Scale-Issues&highlight=malden) we read that _"I checked my station with a ruler and conversion table. The whole building is too big by almost 40%."_ -- musicman @ nscale.net
 
 A few pictures to make the point:
 
