@@ -1,5 +1,7 @@
 # What scale is this station?
 
+## One thing we know is that it is not N
+
 I've incorrectly assumed that it is N-scale - the roof above the platforms are at a reasonable height for passenger cars, I got it for my N-scale kit at some birthday or xmas, and the back side says "Pola-N".
 Then, without anything to compare to and obviously no deeper thought when I cadded the windows, it completely slipped me that this station is _huge_ and nowhere near 1:160 in scale.
 
@@ -26,6 +28,27 @@ The gingerbread is about the height of a grown person.
 ![factorybench](media/factorybench.png)
 
 ![housebench](media/housebench.png)
+
+## So, what scale is it really?
+
+Obviously, the station is way, way too large for N!
+The small door is 22 mm tall.
+
+![small door picture with 22 mm ruler](media/door.png)
+
+|Scale|Prototype height|
+|---|---|
+| N (1:160) | 3.5 meters |
+| H0 (1:87) | 1.9 meters |
+| TT (1:120) | 2.6 meters |
+
+Neither of these makes sense. TT is probably the closest, but it is still a bit too big for TT. H0 will likely look ridicuously small, in particular since the station roof looks decent with N-scale wagons.
+
+Let's look at it the other way around - if we know what the door height is, which scale is the model?
+
+A standard US door is (according to internet, 80 inches, or 200 cm. Let's also look at [this photo of the Grand Trunk Petersburg station](https://www.cweek.ca/photo/show/189) and see if we can figure something out. The seat of the bench is likely 45-50 cm from the ground, which puts the door at something like 4.5*45 = 200 cm as well.
+
+![measurement on the Grand Trunk Petersburg station](media/doormeasurement.png)
 
  
 
