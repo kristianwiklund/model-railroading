@@ -9,6 +9,8 @@ The same model seems to be [sold under a few different brand names](http://miles
 
 *I think it may be HO scale though the box says otherwise.... Compared to my Walthers stuff, one floor of the passenger station is one and a half of the state street stores, etc* - NinjaRob@Trains.com
 
+Also, on [the nscale.net forums](https://www.nscale.net/forums/showthread.php?16831-Scale-Issues&highlight=malden) we read that _"I checked my station with a ruler and conversion table. The whole building is too big by almost 40%."_ -- musicman@nscale.net
+
 A few pictures to make the point:
 
 ![box photo](media/box.png)
